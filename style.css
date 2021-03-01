@@ -1,0 +1,49 @@
+.BALL {
+    border-radius: 50%;
+    width: 100px
+}
+
+Body {
+    text-align: center;
+    background-color: forestgreen;
+    color: yellow;
+}
+
+.text {
+    padding: 20px;
+    font-size: 18;
+    text-align: center;
+}
+
+.options {
+    list-style: none;
+    font-family: monospace;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: red;
+}
+
+
+.Hi {
+    font-family: 'Truculenta', sans-serif;
+}
+
+html {
+    scroll-behaviour: smooth
+
+.button {
+    background-color: lightcyan;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.link {
+    color: red;
+}
